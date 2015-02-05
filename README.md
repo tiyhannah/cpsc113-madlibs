@@ -21,7 +21,7 @@ Groups should work on the following:
 
 If you need to install the repo.
 
-    git clone git@github.com:johnqyalie/mgt656-madlibs.git
+    git clone your-repo-url
     
 Install the dependencies
 
